@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saidalo1" alt="saidalo1" /></a> </p>
 
-- 🔭 I’m currently working on [Django-Ecommerce](https://github.com/Saidalo1/Django-Ecommerce)
+- 🔭 I’m currently working on [Youtube Clone API (VidTube)](https://github.com/Saidalo1/youtube_clone_api)
 
 - 🌱 I’m currently learning **Django, Selenium IDE, Aiogram**
 
