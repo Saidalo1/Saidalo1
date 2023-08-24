@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saida'lo</h1>
-<h3 align="center">A python backend developer from Uzbekistan</h3>
+<h3 align="center">A Python Backend Developer from Uzbekistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saidalo1&label=Profile%20views&color=0e75b6&style=flat" alt="saidalo1" /> </p>
 
